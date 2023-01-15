@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/omar0/.m2/repository/com/toedter/jcalendar/1.4/jcalendar-1.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/omar0/OneDrive/Documentos/NetBeansProjects/Sistema/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/omar0/OneDrive/Documentos/NetBeansProjects/Sistema/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Sistema 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Sistema 1.0-SNAPSHOT API'
+com.mycompany.sistema
+'C:/Users/omar0/OneDrive/Documentos/NetBeansProjects/Sistema/src/main/java/com/mycompany/sistema/Aplicacion.java'
+'C:/Users/omar0/OneDrive/Documentos/NetBeansProjects/Sistema/src/main/java/com/mycompany/sistema/ConsultarCliente.java'
+'C:/Users/omar0/OneDrive/Documentos/NetBeansProjects/Sistema/src/main/java/com/mycompany/sistema/PantallaRegistro.java'
+'C:/Users/omar0/OneDrive/Documentos/NetBeansProjects/Sistema/src/main/java/com/mycompany/sistema/Sistema.java'
+C:\Users\omar0\.m2\repository\com\toedter\jcalendar\1.4\jcalendar-1.4.jar = 1669515652774
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\src\main\java = 1669511216908
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\allclasses-index.html = 1669528040776
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\allpackages-index.html = 1669528040780
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\copy.svg = 1669528040819
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\element-list = 1669528040687
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\help-doc.html = 1669528040810
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\index-all.html = 1669528040803
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\index.html = 1669528040806
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\jquery-ui.overrides.css = 1669528040876
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\member-search-index.js = 1669528040788
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\module-search-index.js = 1669528040782
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\overview-tree.html = 1669528040762
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\package-search-index.js = 1669528040785
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\script.js = 1669528040817
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\search.js = 1669528040824
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\serialized-form.html = 1669528040732
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\stylesheet.css = 1669528040814
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\tag-search-index.js = 1669528040791
+C:\Users\omar0\OneDrive\Documentos\NetBeansProjects\Sistema\target\site\apidocs\type-search-index.js = 1669528040786
